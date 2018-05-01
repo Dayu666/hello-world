@@ -1,2 +1,2 @@
 # hello-world
-begin to use Github
+I begin to use Github to start my IT career.
